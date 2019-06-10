@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Molecule - Rotate and Move",
-            "x": 816,
-            "y": 77,
+            "x": 853,
+            "y": 58,
             "uniqueID": 742531,
             "ioValues": [
                 {
@@ -238,8 +238,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 518,
-                    "y": 287,
+                    "x": 479,
+                    "y": 240,
                     "uniqueID": 934230,
                     "ioValues": [
                         {
@@ -277,8 +277,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule - Rotate and Move",
-                    "x": 816,
-                    "y": 77,
+                    "x": 853,
+                    "y": 58,
                     "uniqueID": 742531,
                     "ioValues": [
                         {
@@ -294,10 +294,6 @@
                     "y": 161,
                     "uniqueID": 140877,
                     "ioValues": [
-                        {
-                            "name": "2D shape 829766",
-                            "ioValue": 10
-                        },
                         {
                             "name": "2D shape 555303",
                             "ioValue": 10
@@ -372,12 +368,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "2D shape 555303",
                     "ap1ID": 449683,
-                    "ap2ID": 140877
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "2D shape 829766",
-                    "ap1ID": 742531,
                     "ap2ID": 140877
                 },
                 {
